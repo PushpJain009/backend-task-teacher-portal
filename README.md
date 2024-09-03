@@ -1,3 +1,5 @@
+# BACKEND OF TEACHER PORTAL #
+
 ## Setup Instructions
 
 To get started with this project, follow these steps:
