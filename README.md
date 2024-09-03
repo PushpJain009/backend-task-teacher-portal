@@ -7,7 +7,7 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/PushpJain009/backend-task-teacher-portal.git
 
-2. **Navigate to the Project Directoryy**
+2. **Navigate to the Project Directory**
 
    ```bash
    cd backend-task-teacher-portal 
@@ -16,11 +16,6 @@ To get started with this project, follow these steps:
 
    ```bash
    npm install
-
-  ***or***
-
-    ```bash
-    npm i
 
 4. **Start the Application**
    ```bash
